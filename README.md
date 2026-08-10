@@ -45,7 +45,7 @@ One engineering problem per week, each with working code, a passing test suite, 
 
 **Bringing it together**
 - **[ntn-toolkit](https://github.com/shaifiqbal/ntn-toolkit)** — One package running the whole chain end to end into a single live pass report + dashboard
-- *Flagship (AI + 5G + Satellite) — coming soon*
+- **[ntn-flagship (Overpass)](https://github.com/shaifiqbal/ntn-flagship)** — the capstone: a live web app wrapping the whole toolkit. Pick any of 40+ cities and see the full 5G-NTN pass analysis in your browser. ▶️ **[Try it live](https://overpass.streamlit.app)**
 
 ---
 
