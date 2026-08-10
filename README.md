@@ -2,6 +2,15 @@
 
 **RF & Satellite Communications Engineer** · UK 🇬🇧 · MSc Mobile & Satellite Communication (Distinction)
 
+### 🚀 Featured Project
+
+**[🛰️ Overpass — live 5G-NTN pass analyzer](https://overpass.streamlit.app)**
+Pick any of 40+ cities worldwide and see what a 5G phone would experience from a satellite passing overhead — link quality, data rate, sync cost, handover and latency — from real orbital data, self-refreshed daily.
+
+▶️ **Try it live: [overpass.streamlit.app](https://overpass.streamlit.app)** · 💻 [Source & 12-week portfolio](https://github.com/shaifiqbal/ntn-flagship)
+
+---
+
 Building open engineering tools at the intersection of **AI · 5G/6G · Satellite (Non-Terrestrial Networks)**.
 
 I design and integrate RF and SDR systems — I built the University of South Wales' first operational satellite ground station end-to-end, and I've delivered large-scale 4G/5G RAN programmes across multiple operators. Right now I'm building a public series of small, real, tested tools exploring how AI meets satellite communications.
